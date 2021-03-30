@@ -34,7 +34,6 @@ class _MoreScreenState extends State<MoreScreen> {
             _listTile('Daftar Dzikir', () {
               Navigator.pushNamed(context, '/daftarDzikir');
             }),
-            _listTile('Jadwal', () {}),
           ],
         ),
       ),
